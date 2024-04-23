@@ -1,0 +1,22 @@
+.App {
+	--header_height: 60px;
+}
+
+.hw {
+	padding: 20px;
+	margin: 20px auto;
+	max-width: 800px;
+	background-color: #f8f8f8;
+	border: 1px solid #e0e0e0;
+	border-radius: 10px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.hwTitle {
+	font-size: 24px;
+	color: #333;
+	margin-bottom: 15px;
+	padding-bottom: 10px;
+	border-bottom: 2px solid #e0e0e0;
+	text-align: center;
+}
